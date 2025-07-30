@@ -1,9 +1,11 @@
-<img width="1660" height="437" alt="Death Percentage by country" src="https://github.com/user-attachments/assets/f51f8a8e-2d6c-454d-8f45-c43d67a94931" /># Covid'19 Exploratory Data Analysis
 ## Project Overview
   The project is about the recent pandemic we had in 2020, that claimed alot of lives in almost every countries and continient. Using Just Python for the analysis to answer every essential questions.
 
 ## Data Source 
  Covid'19: The data use for this analysis was the record made available for us all on Kaggle. The data contain some quite data about the covid pandemic. The data comprises of regions, total case, total death recorded, etc.
+<img width="1478" height="637" alt="Data set" src="https://github.com/user-attachments/assets/579c924a-c9dd-4e93-9ccf-53e889642bf8" />
+
+
 
  ## TOOLS
  - Python
